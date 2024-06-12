@@ -1,1 +1,1 @@
-# Typst.Template
+# Typst.Template.CoverLetter
